@@ -5,17 +5,17 @@
 
 @font-face {
     font-family: "OpenSans-Bold";
-    src: url(../fonts/OpenSans-Bold.ttf);
+    src: url(../fonts/opensans-bold.ttf);
 }
 
 @font-face {
     font-family: "OpenSans-Semibold";
-    src: url(../fonts/OpenSans-Semibold.ttf);
+    src: url(../fonts/opensans-semibold.ttf);
 }
 
 @font-face {
     font-family: "OpenSans-Regular";
-    src: url(../fonts/OpenSans-Regular.ttf);
+    src: url(../fonts/opensans-regular.ttf);
 }
 
 .no-padding {
@@ -130,8 +130,8 @@
 	background-color: rgb(255, 255, 255);
 	border: 2px solid rgb(0, 173, 229);
 	border-top:0px;
-	border-bottom-left-radius: 35px;
-	border-bottom-right-radius: 35px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
 	background-image: url(../img/2-stars.png);
 	background-position: center;
 	background-repeat: no-repeat;
